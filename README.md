@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analyst and Data Science
 - 🌱 I’m currently learning Google Analytics
 - 💞️ I’m looking to collaborate on Data Analyst and Data Science
-- 📫 How to reach me 
+- 📫 How to reach me text me
 
 <!---
 Manishka07/Manishka07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
