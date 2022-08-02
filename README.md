@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Manishka07
-- 👀 I’m interested in Data Analyst and Data Science
+- 👋 Hi, I’m @Manish
+- 👀 Data Analyst and Data Scientist
 - 🌱 I’m currently learning Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on Data Analyst and Data Science
+- 💞️ I’m looking to collaborate on Data Analyst and Data Sciencetist
 - 📫 Reach me at manishka7027@gmail.com
 
 <!---
